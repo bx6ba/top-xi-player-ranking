@@ -1,2 +1,2 @@
 # top-xi-player-ranking
-A data-driven ranking system that evaluates 2,500+ football players across Europe’s top 5 leagues using 300+ per-90 performance metrics. Applies SQL, pandas, and min-max normalization to identify the top goalkeeper, defenders, midfielders, and forwards in a 3–4–3 formation.
+This project presents a data-driven approach to identifying the top eleven football players across Europe's top five leagues during the 2024/25 season. The analysis leverages a dataset containing over 300 performance metrics for more than 2,500 players.
