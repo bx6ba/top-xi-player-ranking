@@ -1,6 +1,6 @@
 Syed Mohammed Ahmed | syedmohd2002@gmail.com
 
-# Top XI: Data-Driven Player Ranking in European Football
+# Player Performance Evaluation Model in Football
 
 This project identifies the top-performing football players across Europe's top 5 leagues during the 2024/25 season using over 300 per-90-minute performance metrics. The final output is a fully data-driven 3–4–3 formation based on role-specific evaluation and statistical modeling.
 
